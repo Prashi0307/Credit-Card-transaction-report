@@ -12,7 +12,7 @@ effectively.
 
 Project Insights- Week 53 (31st Dec)
 WoW change:
-• Revenue increased by 28.8%,
+• Revenue increased by 28.8%
 • Total Transaction Amt & Count increased by xx% & xx%
 • Customer count increased by xx%
 Overview YTD:
